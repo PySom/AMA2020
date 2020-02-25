@@ -1,3 +1,3 @@
-const stuterns = ["Temitope", "Austin"];
+const stuterns = ["Temitope", "Austin", "Damilola"];
 
 console.log(stuterns);
